@@ -83,8 +83,6 @@ if __name__ == "__main__":
         Point.y.__set__(p, 34)
         print("Point.y.__set__(p, 34): {}", p.y)
 
-        # p.x = 2.3 # raise an AttributeError: Expected an int.
-
 
 
 
