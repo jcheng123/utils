@@ -1,2 +1,3 @@
 # utils
-It is used to improve productivity. 
+It is used to record some knowledge about python.
+
